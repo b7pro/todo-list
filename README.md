@@ -1,1 +1,1 @@
-just create todo list bt react 
+just create todo list by react 
